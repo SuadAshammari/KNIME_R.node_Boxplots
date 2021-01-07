@@ -1,2 +1,5 @@
-# KNIME_R.node_Boxplots
-R script to create boxplots on KNIME
+# KNIME Boxplots list Using R node 
+## ![Image](https://www.knime.com/files/knime_logo_github_40x40_4layers.png) KNIME®
+![Image](https://www.r-project.org/Rlogo.png)
+
+This repository contains the KNIME workflow that contains two nodes. The first is the file reader, and the second is the R node (R view (table)).
