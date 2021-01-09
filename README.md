@@ -12,6 +12,6 @@
 This repository contains the KNIME workflow that contains two nodes. The first is the file reader, and the second is the R node (R view (table)).
 
 ## Nodes Representation 
-![Image](https://github.com/SuadAshammari/KNIME_R.node_Boxplots/blob/main/ImageExample/Knime_GitHub_Picture_0.png)
+![Image](https://raw.githubusercontent.com/SuadAshammari/KNIME_R.node_Boxplots/main/ImageExample/Screenshot%202021-01-09%20081516.png?token=ASMBS7S45NEIOJMELVM57WK77GWVG)
 
 >>>>>>> c48f2dcaa423d370dfa18c8fed34a96a844c3879
