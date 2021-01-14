@@ -10,4 +10,4 @@ This repository contains the KNIME workflow that has two nodes. The first is the
 
 
 ## Nodes Representation 
-![Image](https://github.com/SuadAshammari/KNIME_R.node_Boxplots/blob/main/ImageExample/Screenshot%202021-01-09%20081516.png?raw=true)
+![Image](https://raw.githubusercontent.com/SuadAshammari/KNIME_R.node_Boxplots/main/ImageExample/boxplots%20Screenshot%202021-01-12%20131257.png?token=ASMBS7WK7JPKAWAAHORYQJS77XVMU)
