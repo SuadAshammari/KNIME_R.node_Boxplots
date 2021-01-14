@@ -8,6 +8,7 @@ This repository contains the KNIME workflow that has two nodes. The first is the
 - File reader node: in this node, add the data set.
 - R view (table) node: this node will create the boxplot figures when it is executed. If there are figures overlap, click on configure > Image settings> then change the width and height to change the figures' dimensions.
 
+![Image](https://raw.githubusercontent.com/SuadAshammari/KNIME_R.node_Boxplots/main/ImageExample/KNIME_Script%20with%20changes.png?token=ASMBS7TTOOE4VE6MPECAE6TAAC44Q)
 
 ## Nodes Representation 
-![Image](https://raw.githubusercontent.com/SuadAshammari/KNIME_R.node_Boxplots/main/ImageExample/boxplots%20Screenshot%202021-01-12%20131257.png?token=ASMBS7WK7JPKAWAAHORYQJS77XVMU)
+![Image](https://raw.githubusercontent.com/SuadAshammari/KNIME_R.node_Boxplots/main/ImageExample/boxplots%20Screenshot%202021-01-12%20131257.png?token=ASMBS7UENSPDHNEBMYWU2ZDAAC5IO)
