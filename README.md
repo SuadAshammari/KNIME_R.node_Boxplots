@@ -8,7 +8,7 @@ This repository contains the KNIME workflow that has two nodes. The first is the
 - File reader node: in this node, add the data set.
 - R view (table) node: this node will create the boxplot figures when it is executed. If there are figures overlap, click on configure > Image settings> then change the width and height to change the figures' dimensions.
 
-## ![Image](https://raw.githubusercontent.com/SuadAshammari/KNIME_R.node_Boxplots/main/ImageExample/KNIME_Script_with_changes.png?token=ASMBS7SBE4NZQMBPEJGKRCLAAJCMM)
+## ![Image](https://raw.githubusercontent.com/SuadAshammari/KNIME_R.node_Boxplots/main/ImageExample/KNIME_Script_with_changes.png?token=AKG2WW2HPS7HGSNK3V7O6QDABMH3E)
 
 >In this figure, the highlighted word with the red square is the column that contains the groups to compare. This means the user has to replace "Group" with the column name in the data set used in the analysis. For example, if the column containing the groups is named "Label", the user should substitute all "Group" words highlighted with the red square with "Label".
 
